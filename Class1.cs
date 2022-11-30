@@ -9,7 +9,7 @@ public class invoice
     public int q_pay_day { get; set; }  // TODO сумма к оплате без штрафа (вычисляемое поле)
     public int f_f_pay_day { get; set; }    // TODO штраф (вычисляемое поле),
     public int summ_pay { get; set; } // TODO общая сумма к оплате (вычисляемое поле).
-    static bool property { get; set; }
+    static bool property { get; set; } // TODO свойства обьекта
    public  invoice() { }
 
 
