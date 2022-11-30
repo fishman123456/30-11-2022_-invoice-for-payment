@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\bin\Debug\net6.0\30-11-2022_ invoice for payment.exe
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\bin\Debug\net6.0\30-11-2022_ invoice for payment.deps.json
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\bin\Debug\net6.0\30-11-2022_ invoice for payment.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\bin\Debug\net6.0\30-11-2022_ invoice for payment.dll
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\bin\Debug\net6.0\30-11-2022_ invoice for payment.pdb
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.dll
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\refint\30-11-2022_ invoice for payment.dll
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.pdb
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\30-11-2022_ invoice for payment.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\30-11-2022_ invoice for payment\obj\Debug\net6.0\ref\30-11-2022_ invoice for payment.dll
